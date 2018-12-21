@@ -1,0 +1,6 @@
+Details of the participant
+    balance in wallet = 89
+    public key = 0wzazagfk
+    private key = jvm
+
+

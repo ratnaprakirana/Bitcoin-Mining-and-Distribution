@@ -1,0 +1,21 @@
+Details of the participant
+    balance in wallet = 75
+    public key = d8n9u8kww
+    private key = gb9
+
+
+Transaction details involving this participant 
+    transaction id = _hgcqmrgrbqw
+    debit account = d8n9u8kww
+    credit account = kqlzlilbj
+    amount transferred = 28
+    status = success
+    Timestamp = 2018-11-27 03:33:43.657000
+
+
+Details of the participant
+    amount in wallet = 47
+    public key = d8n9u8kww
+    private key = gb9
+
+

@@ -1,0 +1,21 @@
+Details of the participant
+    balance in wallet = 71
+    public key = 8b6wsp0u3
+    private key = -cl
+
+
+Transaction details involving this participant 
+    transaction id = gncs_st1lj5c
+    debit account = 6pdiy8gfq
+    credit account = 8b6wsp0u3
+    amount transferred = 6
+    status = success
+    Timestamp = 2018-11-27 03:33:31.269000
+
+
+Details of the participant
+    amount in wallet = 77
+    public key = 8b6wsp0u3
+    private key = -cl
+
+

@@ -1,0 +1,51 @@
+Details of the participant
+     balance in wallet = 76
+  public key = 1y6ktqczf
+     private key = qiv
+
+
+Transaction details involving this participant 
+    transaction id = 5saz29teou12
+    debit account = 1y6ktqczf
+    credit account = efgjg6x1h
+    amount transferred = 82
+    status = failed
+    Timestamp = 2018-11-27 03:33:24.606000
+
+
+Details of the participant
+    amount in wallet = 76
+    public key = 1y6ktqczf
+    private key = qiv
+
+
+Transaction details involving this participant 
+    transaction id = ifausrt9p6u9
+    debit account = ea0pqj6t2
+    credit account = 1y6ktqczf
+    amount transferred = 23
+    status = success
+    Timestamp = 2018-11-27 03:33:26.983000
+
+
+Details of the participant
+    amount in wallet = 99
+    public key = 1y6ktqczf
+    private key = qiv
+
+
+Transaction details involving this participant 
+    transaction id = tjzjqzxls0ec
+    debit account = 1y6ktqczf
+    credit account = 6pdiy8gfq
+    amount transferred = 66
+    status = success
+    Timestamp = 2018-11-27 03:33:32.342000
+
+
+Details of the participant
+    amount in wallet = 33
+    public key = 1y6ktqczf
+    private key = qiv
+
+

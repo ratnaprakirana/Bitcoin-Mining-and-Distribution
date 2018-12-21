@@ -1,0 +1,36 @@
+Details of the participant
+    balance in wallet = 80
+    public key = stezodg4n
+    private key = d_m
+
+
+Transaction details involving this participant 
+    transaction id = b0mx1dhhbxag
+    debit account = n5f2s2ceh
+    credit account = stezodg4n
+    amount transferred = 57
+    status = success
+    Timestamp = 2018-11-27 03:33:45.786000
+
+
+Details of the participant
+    amount in wallet = 137
+    public key = stezodg4n
+    private key = d_m
+
+
+Transaction details involving this participant 
+    transaction id = ntkq3umtm6to
+    debit account = stezodg4n
+    credit account = kqlzlilbj
+    amount transferred = 146
+    status = failed
+    Timestamp = 2018-11-27 03:33:48.138000
+
+
+Details of the participant
+    amount in wallet = 137
+    public key = stezodg4n
+    private key = d_m
+
+

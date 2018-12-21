@@ -1,0 +1,21 @@
+Details of the participant
+    balance in wallet = 80
+    public key = efgjg6x1h
+    private key = th3
+
+
+Transaction details involving this participant 
+    transaction id = 5saz29teou12
+    debit account = 1y6ktqczf
+    credit account = efgjg6x1h
+    amount transferred = 82
+    status = failed
+    Timestamp = 2018-11-27 03:33:24.606000
+
+
+Details of the participant
+    amount in wallet = 80
+    public key = efgjg6x1h
+    private key = th3
+
+

@@ -1,0 +1,21 @@
+Details of the participant
+    balance in wallet = 80
+    public key = evus5kpmo
+    private key = nhz
+
+
+Transaction details involving this participant 
+    transaction id = toe6thn6thxj
+    debit account = evus5kpmo
+    credit account = endfufyl2
+    amount transferred = 88
+    status = failed
+    Timestamp = 2018-11-27 03:33:28.137000
+
+
+Details of the participant
+    amount in wallet = 80
+    public key = evus5kpmo
+    private key = nhz
+
+

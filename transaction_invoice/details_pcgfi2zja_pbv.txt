@@ -1,0 +1,6 @@
+Details of the participant
+    balance in wallet = 82
+    public key = pcgfi2zja
+    private key = pbv
+
+

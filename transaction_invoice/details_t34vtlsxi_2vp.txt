@@ -1,0 +1,6 @@
+Details of the participant
+    balance in wallet = 74
+    public key = t34vtlsxi
+    private key = 2vp
+
+

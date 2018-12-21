@@ -1,0 +1,36 @@
+Details of the participant
+     balance in wallet = 85
+  public key = pz3ymvcsg
+     private key = v-t
+
+
+Transaction details involving this participant 
+    transaction id = daukmkx1vdhh
+    debit account = -izhs3cu7
+    credit account = pz3ymvcsg
+    amount transferred = 16
+    status = success
+    Timestamp = 2018-11-27 03:33:44.739000
+
+
+Details of the participant
+    amount in wallet = 101
+    public key = pz3ymvcsg
+    private key = v-t
+
+
+Transaction details involving this participant 
+    transaction id = i6dcpxc5dzhy
+    debit account = n5f2s2ceh
+    credit account = pz3ymvcsg
+    amount transferred = 92
+    status = failed
+    Timestamp = 2018-11-27 03:33:49.373000
+
+
+Details of the participant
+    amount in wallet = 101
+    public key = pz3ymvcsg
+    private key = v-t
+
+

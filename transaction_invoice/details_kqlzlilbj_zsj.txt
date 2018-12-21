@@ -1,0 +1,51 @@
+Details of the participant
+    balance in wallet = 90
+    public key = kqlzlilbj
+    private key = zsj
+
+
+Transaction details involving this participant 
+    transaction id = _hgcqmrgrbqw
+    debit account = d8n9u8kww
+    credit account = kqlzlilbj
+    amount transferred = 28
+    status = success
+    Timestamp = 2018-11-27 03:33:43.657000
+
+
+Details of the participant
+    amount in wallet = 118
+    public key = kqlzlilbj
+    private key = zsj
+
+
+Transaction details involving this participant 
+    transaction id = ycijhd0xmuo-
+    debit account = kqlzlilbj
+    credit account = n5f2s2ceh
+    amount transferred = 137
+    status = failed
+    Timestamp = 2018-11-27 03:33:47.002000
+
+
+Details of the participant
+    amount in wallet = 118
+    public key = kqlzlilbj
+    private key = zsj
+
+
+Transaction details involving this participant 
+    transaction id = ntkq3umtm6to
+    debit account = stezodg4n
+    credit account = kqlzlilbj
+    amount transferred = 146
+    status = failed
+    Timestamp = 2018-11-27 03:33:48.138000
+
+
+Details of the participant
+    amount in wallet = 118
+    public key = kqlzlilbj
+    private key = zsj
+
+

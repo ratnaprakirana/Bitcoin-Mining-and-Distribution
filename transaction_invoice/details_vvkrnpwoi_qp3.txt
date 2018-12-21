@@ -1,0 +1,36 @@
+Details of the participant
+    balance in wallet = 83
+    public key = vvkrnpwoi
+    private key = qp3
+
+
+Transaction details involving this participant 
+    transaction id = algb_vmi3h6l
+    debit account = ea0pqj6t2
+    credit account = vvkrnpwoi
+    amount transferred = 88
+    status = failed
+    Timestamp = 2018-11-27 03:33:25.908000
+
+
+Details of the participant
+    amount in wallet = 83
+    public key = vvkrnpwoi
+    private key = qp3
+
+
+Transaction details involving this participant 
+    transaction id = 5zsoc6ik4kvh
+    debit account = vvkrnpwoi
+    credit account = mkzx4dde1
+    amount transferred = 31
+    status = success
+    Timestamp = 2018-11-27 03:33:30.218000
+
+
+Details of the participant
+    amount in wallet = 52
+    public key = vvkrnpwoi
+    private key = qp3
+
+

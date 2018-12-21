@@ -1,0 +1,51 @@
+Details of the participant
+    balance in wallet = 80
+    public key = 6pdiy8gfq
+    private key = 3ih
+
+
+Transaction details involving this participant 
+    transaction id = h1ogtfjprg4v
+    debit account = 6pdiy8gfq
+    credit account = mkzx4dde1
+    amount transferred = 61
+    status = success
+    Timestamp = 2018-11-27 03:33:29.196000
+
+
+Details of the participant
+    amount in wallet = 19
+    public key = 6pdiy8gfq
+    private key = 3ih
+
+
+Transaction details involving this participant 
+    transaction id = gncs_st1lj5c
+    debit account = 6pdiy8gfq
+    credit account = 8b6wsp0u3
+    amount transferred = 6
+    status = success
+    Timestamp = 2018-11-27 03:33:31.269000
+
+
+Details of the participant
+    amount in wallet = 13
+    public key = 6pdiy8gfq
+    private key = 3ih
+
+
+Transaction details involving this participant 
+    transaction id = tjzjqzxls0ec
+    debit account = 1y6ktqczf
+    credit account = 6pdiy8gfq
+    amount transferred = 66
+    status = success
+    Timestamp = 2018-11-27 03:33:32.342000
+
+
+Details of the participant
+    amount in wallet = 79
+    public key = 6pdiy8gfq
+    private key = 3ih
+
+
